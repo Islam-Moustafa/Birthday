@@ -11,7 +11,7 @@ class Birthday extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Color(0xFFd2bcd5),
+        backgroundColor: Color(0xffd2bcd5),
         body: Image(
           image: AssetImage('images/107.png'),
         ),
